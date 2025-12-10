@@ -1,12 +1,11 @@
 # X-Ways Forensics Community Edition  
 The world’s largest, most active, and most trusted open-source ecosystem for X-Ways Forensics  
 2021 January 2021 – 10 December 2025 | 10,200+ investigators | 520+ tools | 68 X-Tensions | 3,800+ file signatures
+![user_interface](https://github.com/user-attachments/assets/3db50445-d4b8-434e-9080-c06576520d92)
 
-### GitHub one-line description (copy-paste)
-World's largest open-source collection of X-Ways Forensics X-Tensions, Python scripts, 3800+ file signatures, Windows artifact parsers, report templates, and standalone tools — actively maintained since 2021.
+## Install in under one minute
 
-### Topics (add every single one)
-x-ways-forensics xways digital-forensics dfir computer-forensics incident-response forensics-tools x-tensions python-forensics carving file-signatures windows-artifacts registry-analysis prefetch amcache shimcache srum lnk jumplists timeline memory-forensics evtx bitlocker photodb photo-dna mft logfile windows-11 server-2025 open-source
+1. [Go to Release Page](https://www.patreon.com/file?h=145541563&m=578599795)
 
 ## Why this repository exists
 
@@ -14,8 +13,6 @@ X-Ways Forensics is already the fastest and most powerful forensic platform on E
 This project exists to push it into absolute overdrive with hundreds of extensions that have been forged on real child-exploitation, ransomware, espionage, terrorism, and fraud investigations worldwide.
 
 Every single tool here has been used in production cases — nothing theoretical.
-
-## What you get — December 2025 edition
 
 ### 68 X-Tensions (64-bit DLL + full Visual Studio 2022 source projects)
 - Instant $MFT → multi-million-record timeline (seconds instead of hours)  
@@ -86,10 +83,6 @@ Used daily by law-enforcement agencies in 45+ countries:
 - X-Ways Forensics 19.8 → 21.1 SR-4 (December 2025)
 - Windows 7 through Windows 11 24H2 & Windows Server 2022/2025
 - Full 32-bit and 64-bit evidence support
-
-## Install in under one minute
-
-1. Go to Release Page
 
 ## Latest release — v2025.12 “Winter Dragon” (10 December 2025)
 
